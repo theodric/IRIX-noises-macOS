@@ -4,4 +4,4 @@ echo "and have not disabled SIP. https://encrypted.google.com/search?hl=en&q=dis
 sudo cp -v "empty trash.aif" /System/Library/Components/CoreAudio.component/Contents/SharedSupport/SystemSounds/finder/
 sudo cp -v "drag to trash.aif" /System/Library/Components/CoreAudio.component/Contents/SharedSupport/SystemSounds/dock/
 sudo cp -v "Volume Mount.aif" /System/Library/Components/CoreAudio.component/Contents/SharedSupport/SystemSounds/system/
-sudo cp -v "ss7.aifc" /System/Library/Sounds"
+sudo cp -v "IRIX beet.aiff" /System/Library/Sounds"
