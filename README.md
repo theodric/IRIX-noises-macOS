@@ -2,6 +2,7 @@
 IRIX sounds for macOS
 
 This is not intended to be reversible. If that's a problem, refer to the installer script to see what files you need to back up.
+You need to have disabled SIP for this to work!
 
 * Clone repo
 * sh install.sh
